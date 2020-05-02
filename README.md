@@ -14,7 +14,7 @@ In the corpus on [LPR and DPR](./data/lnr_dnr_labelled.txt) opinions are:
 - 1 marks pro-Ukrainian position
 - 2 marks pro-Russian position
 
-In the corpus on [Trump's decision(./data/trump_labelled.txt) to leave the PCA opinions are:
+In the corpus on [Trump's decision](./data/trump_labelled.txt) to leave the PCA opinions are:
 - 0 marks the neutral opinion
 - 1 marks the opinion of Trump's opposers
 - 2 marks the opinion of Trump's supporters
