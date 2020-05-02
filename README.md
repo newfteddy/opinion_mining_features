@@ -7,14 +7,14 @@ We have collected and labelled two corpora of news:
 - 220 news considering Donald Trump's decision of quitting the Paris Climate Agreement. The text's sizes once again averaged at around 200 words. The news were equally distributed between two opinions: one of Trump's supporters, those who oppose him (such as Elon Musk).
 
 
-In [data](./data) there are two files corresponding to the corpora. Each file consists of enumerated lines, where "|text" marks the beginning of the news text itself and opinion follows the label "|mark".
+In [data](./data) there are two files corresponding to the corpora. Each file consists of enumerated lines, where "|text" marks the beginning of the news text itself and "|mark" showes opinion label.
 
-In the corpus on [LPR and DPR](./data/lnr_dnr_labelled.txt) opinions are:
+In the corpus on [LPR and DPR](./data/lnr_dnr_labelled.txt) opinion labels are:
 - 0 marks the neutral opinion
 - 1 marks pro-Ukrainian position
 - 2 marks pro-Russian position
 
-In the corpus on [Trump's decision](./data/trump_labelled.txt) to leave the PCA opinions are:
+In the corpus on [Trump's decision](./data/trump_labelled.txt) to leave the PCA opinion labels are:
 - 0 marks the neutral opinion
 - 1 marks the opinion of Trump's opposers
 - 2 marks the opinion of Trump's supporters
